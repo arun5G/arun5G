@@ -14,4 +14,4 @@ A Passionate Java Backend Developer with hands-on experience in designing, devel
 
 - ✨ Fun fact I don't leave anything easly.
 
-/assets/images/one.png
+one.png
