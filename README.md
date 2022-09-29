@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/arun5G/arun5G/issues/1#issue-1389331477.gif)](https://arun5g.io)
+[![MasterHead](https://user-images.githubusercontent.com/103977851/192786502-c93d1f6d-8609-432e-825a-4c788a8395ce.gif)](https://arun5g.io)
 
 ### Hi there 👋
 
