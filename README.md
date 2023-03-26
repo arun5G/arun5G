@@ -12,7 +12,6 @@
 - 💬 Ask me about *JAVA*
 - 📫 How to reach me *arunkumar15031503@gmail.com*
 - 📄 Here is mine <a href="https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing](https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing">My Resume</a>
-- Want to know about mine work <a href="https://arun5g.github.io">My Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
