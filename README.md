@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arun-kumar-47aa1619a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMQ3KRG%2BGQym0Z3ge2%2FdsSA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arunkumar1503151?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hkrrank" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
