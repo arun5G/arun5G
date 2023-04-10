@@ -11,7 +11,7 @@
 - I am Arun Kumar
 - 💬 Ask me about *JAVA*
 - 📫 How to reach me *arunkumar15031503@gmail.com*
-- 📄 Here is mine <a href="https://drive.google.com/file/eBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing](https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeH8Y/view?usp=sharing">My Resume</a>
+- 📄 Here is mine <a href="https://drive.google.com/file/eBHLHeHH4ab1zWio8Y/view?usp=sharing](https://drive.google/d/1KJOKo4uVFMZeBHLHeH8Y/view?usp=sharing">My Resume</a>
 - Want to know about mine work <a href="https://arunhub.io">My Portfolio</a>
 
 
