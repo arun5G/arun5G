@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://www.horizont.com.hr/posao/backend-developer.gif)](https://arun5g.github.io)
+[![MasterHead](https://www.horizont.com.hr/posao/backend-developer.gif)](https://arunhub.io)
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="center">A passionate backend developer from India.Strong in design and integration with intuitive problem-solving skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -11,8 +11,8 @@
 - I am Arun Kumar
 - 💬 Ask me about *JAVA*
 - 📫 How to reach me *arunkumar15031503@gmail.com*
-- 📄 Here is mine <a href="https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing](https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing">My Resume</a>
-- Want to know about mine work <a href="https://arun5g.github.io">My Portfolio</a>
+- 📄 Here is mine <a href="https://drive.google.com/file/eBHLHeHH4ab1zzI4Wio8Y/view?usp=sharing](https://drive.google.com/file/d/1KJOKo4uVFMZeBHLHeH8Y/view?usp=sharing">My Resume</a>
+- Want to know about mine work <a href="https://arunhub.io">My Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
